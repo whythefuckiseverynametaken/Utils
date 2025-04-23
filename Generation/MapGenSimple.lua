@@ -1,0 +1,3 @@
+local simpleMapGen = {}
+
+return simpleMapGen
